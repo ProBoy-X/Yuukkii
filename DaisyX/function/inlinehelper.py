@@ -88,20 +88,20 @@ async def alive_function(answers):
     )
 
     msg = f"""
-**[DaisyX✨](https://github.com/TeamDaisyX):**
+**[Yuki✨](https://github.com/JassManak1125):**
 **MainBot:** `{bot_state}`
 **UserBot:** `Alive`
 **Python:** `3.9`
 **Pyrogram:** `{pyrover}`
 **MongoDB:** `{mongover}`
 **Platform:** `{sys.platform}`
-**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [UBOT](t.me/daisyxhelper)
+**Profiles:** [BOT](t.me/{BOT_USERNAME}) | [UBOT](t.me/Its_JassManak)
 """
     answers.append(
         InlineQueryResultArticle(
             title="Alive",
             description="Check Bot's Stats",
-            thumb_url="https://telegra.ph/file/debc179305d2e1f140636.jpg",
+            thumb_url="https://telegra.ph/file/a778e5c96ca3bbe273111.jpg",
             input_message_content=InputTextMessageContent(
                 msg, disable_web_page_preview=True
             ),
