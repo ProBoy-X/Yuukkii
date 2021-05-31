@@ -7,7 +7,7 @@ MONGO = get_str_key("MONGO_URI", required=True)
 if MONGO2 == None:
     MONGO2 = MONGO
 myclient = pymongo.MongoClient(MONGO2)
-mydb = myclient["Daisy"]
+mydb = myclient["Yuki"]
 
 
 async def add_filter(grp_id, text, reply_text, btn, file, alert):
@@ -69,7 +69,7 @@ async def delete_filter(message, text, group_id):
     if query == 1:
         mycol.delete_one(myquery)
         await message.reply_text(
-            f"'`{text}`'  deleted. I'll not respond to that filter anymore.",
+            f"'`{text}`'  Deleted. I'll not respond to that filter anymore.!!",
             quote=True,
             parse_mode="md",
         )
