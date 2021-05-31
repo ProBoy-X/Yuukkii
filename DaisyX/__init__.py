@@ -28,7 +28,7 @@ from DaisyX.utils.logger import log
 log.info("----------------------")
 log.info("|      Yuki       |")
 log.info("----------------------")
-log.info("Version: " + DaisyX_VERSION)
+log.info("Version: " + Daisy_VERSION)
 
 if get_bool_key("DEBUG_MODE") is True:
     DAISY_VERSION += "-debug"
