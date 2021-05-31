@@ -1,2 +1,2 @@
 DAISYX: python3 -m DaisyX
-ps:scale DAISYX=1
+ps:scale Yuki=1
