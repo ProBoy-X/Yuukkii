@@ -1,16 +1,15 @@
 {
-  "name": "DaisyX",
+  "name": "Yuki",
   "description": "?",
   "keywords": [
     "telegram",
-    "Daisy",
+    "Yuki",
     "plugin",
-    "telegram-DaisyX",
+    "telegram-Yuki",
     "fuck-TG"
   ],
-  "repository": "https://github.com/TeamDaisyX/Daisy-x",
-  "website": "daisyproject.studio",
-  "success_url": "t.me/DaisyXUpdates",
+  "repository": "https://github.com/JassManak1125/Yuki",
+  "success_url": "t.me/YuukiRoBot",
   "buildpacks": [
    {
      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
@@ -49,7 +48,7 @@
     },
     "MONGO_DB": {
       "description": "Don't change.",
-      "value": "DaisyX",
+      "value": "Yuki",
       "required": false
     },
     "HEROKU_APP_NAME": {
@@ -64,7 +63,7 @@
     },
     "UPSTREAM_REPO_URL": {
       "description": "Only for fork users else don't change",
-      "value": "https://github.com/TeamDaisyX/DaisyX-v2.0",
+      "value": "https://github.com/JassManak1125/Yuki.0",
       "required": false  
     },
     "API_PORT": {
