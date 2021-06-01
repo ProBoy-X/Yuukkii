@@ -44,6 +44,11 @@ def help_markup(modules):
     return markup
 
 
+STICKERS = (
+    "CAACAgUAAx0CUMBoLgABAqUxYLYmJNY7UTRkbWjn5NJKcC-B8xAAAmwDAAIamLBVM2tU_w2Mo84eBA"
+)
+  
+    
 @register(cmds="start", no_args=True, only_groups=True)
 @disableable_dec("start")
 @get_strings_dec("pm_menu")
