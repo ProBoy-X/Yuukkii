@@ -177,27 +177,27 @@ STRINGS:
     promote_success: "{user} was successfully promoted in {chat_name}!"
     promote_title: "\nWith custom role <code>{role}</code>!"
     rank_to_loong: "Custom role text cannot be longer than 16 symbols."
-    promote_failed: "Promotion failed! Check if I have rights to."
+    promote_failed: "Promotion failed! Check if I have rights to!!."
     demote_success: "{user} was successfully demoted in {chat_name}!"
     demote_not_admin: "That user isn't admin."
     demote_failed: "Demotion failed. Maybe I can't demote or the person is promoted by someone else?"
     cant_get_user: "I couldn't get the user! If you mind, please reply to his message and try again."
-    cant_promote_yourself: "You can't promote yourself."
-    emoji_not_allowed: "I'm sorry, but admin roles can't have emojis 😞"
+    cant_promote_yourself: "You can't promote yourself.!!"
+    emoji_not_allowed: "Admin roles can't have emojis 🤧"
 
   pm_menu:
-    start_hi_group: 'Hey there! My name is Daisy'
-    start_hi: "Hey there! My name is <b>Daisy.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
-    btn_source: "📜 Source code"
-    btn_help: "❔ Help"
+    start_hi_group: 'Hey there! My name is Yuki'
+    start_hi: "Hey there! My name is <b>Yuki.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
+    btn_source: "Source code"
+    btn_help: "Help"
     btn_lang: "🇺🇸 Language"
-    btn_channel: "🙋‍♀️ Daisy News"
-    btn_group: "👥 Daisy Support"
-    btn_group_help: "Click me for help!"
-    back: "🏃‍♂️ Back"
+    btn_channel: "Yuki news"
+    btn_group: "Yuki support"
+    btn_group_help: "Click me for help!!"  
+    back: "Back"
 
     # /help
-    help_header: "Hi Boss! I'm <b>Daisy</b>. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
+    help_header: "Hi Boss! I'm <b>Yuki. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
     click_btn: Click here
 
   disable:
