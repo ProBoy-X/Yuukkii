@@ -55,8 +55,8 @@ STICKERS = (
     "CAACAgUAAx0CU7OPAwADIGC2S4_l62jolk69s0D0Lo7yjJT5AAKiAQAC96i5VfFDvp_gJv8XHgQ",
     "CAACAgUAAx0CU7OPAwADI2C2S5fSC-GVsx7u7qvIzhqywsSBAAJnAwACxJq4VVIxVWDFICW9HgQ",
 )
-  
-    
+
+
 @register(cmds="start", no_args=True, only_groups=True)
 @disableable_dec("start")
 @get_strings_dec("pm_menu")
@@ -84,7 +84,9 @@ async def get_start_func(message, strings, edit=False):
         ),
     )
     buttons.add(
-        InlineKeyboardButton(strings["btn_channel"], url="https://t.me/Yuki_Support_Official"),
+        InlineKeyboardButton(
+            strings["btn_channel"], url="https://t.me/Yuki_Support_Official"
+        ),
         InlineKeyboardButton(
             strings["btn_group"], url="https://t.me/Yuki_Support_Official"
         ),
