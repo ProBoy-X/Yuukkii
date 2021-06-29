@@ -44,8 +44,8 @@ Complete guide on deploying Daisy/Yuki's clone on Heroku.
 ### Self-hosting (For Devs) ⚔
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/JassManak1125/Yuki
-$ cd Yuki
+$ git clone https://github.com/ProBoy-X/Yuukkii
+$ cd Yuukkii
 # Upgrade sources
 $ bash deploy.sh
 # Install All Requirements 
