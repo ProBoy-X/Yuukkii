@@ -76,7 +76,7 @@ $ python(3) -m Yuki
 # 😍 Credits
 
  - [DaisyX](https://github.com/teamdaisyx/daisy-x)
- - [Jass Manak](https://github.com/JassManak1125
+ - [Jass Manak](https://github.com/JassManak1125)
 
 
 The bot is based on the original work done by [SophieBot](https://gitlab.com/SophieBot/sophie) and many other projects
