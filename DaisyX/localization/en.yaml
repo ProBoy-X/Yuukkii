@@ -187,7 +187,7 @@ STRINGS:
 
   pm_menu:
     start_hi_group: 'Hey there! My name is Yuki'
-    start_hi: "Hey there! My name is <b>Yuki.</b>\nI can help manage your groups with useful features, feel free to add me to your groups!"
+    start_hi: "ɦɨʏօօ.!! ɨȶ'ֆ ʍɛ ʏʊӄɨɨ.. ǟռ ǟռɨʍɛ ȶɦɛʍɛɖ ֆʊքɛʀ քօաɛʀʄʊʟ ɢʀօʊք ʍǟռǟɢɛʍɛռȶ ɮօȶ..\nɨ ƈǟռ ɦɛʟք ʍǟռǟɢɛ ʏօʊʀ ɢʀօʊքֆ աɨȶɦ ʊֆɛʄʊʟ ʄɛǟȶʊʀɛֆ.., ʄɛɛʟ ʄʀɛɛ ȶօ ǟɖɖ ʍɛ ȶօ ʏօʊʀ ɢʀօʊքֆ..!"
     btn_source: "Source code"
     btn_help: "Help"
     btn_lang: "🇺🇸 Language"
@@ -197,7 +197,7 @@ STRINGS:
     back: "Back"
 
     # /help
-    help_header: "Hi Boss! I'm <b>Yuki. An anime themed super powerful group management bot with many handy tools. So why are you waiting. Let me to assist you"
+    help_header: "ɦɨʏօօ.!! ɨȶ'ֆ ʍɛ ʏʊӄɨɨ.. ǟռ ǟռɨʍɛ ȶɦɛʍɛɖ ֆʊքɛʀ քօաɛʀʄʊʟ ɢʀօʊք ʍǟռǟɢɛʍɛռȶ ɮօȶ..\nʝʊֆȶ ǟɖɖ ʍɛ ȶօ ʏօʊʀ ɢʀօʊք ǟռɖ աǟȶƈɦ..😉"
     click_btn: Click here
 
   disable:
