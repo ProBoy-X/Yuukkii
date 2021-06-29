@@ -4,16 +4,16 @@
 <h4 align="center">A Powerful, Smart And Simple Group Manager <br> ... Written with AioGram , Pyrogram and Telethon...</h4>
 <p align='center'>
   <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?style=flat-square&logo=python&color=blue" /> </a>
-  <a href="https://github.com/JassManak1125/Yuki/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
+  <a href="https://github.com/ProBoy-X/Yuukkii/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" /> </a>
 </p>
 
 <p align="center"><a href="https://t.me/Yuki_Support_Official"><img src="https://telegra.ph/file/a778e5c96ca3bbe273111.jpg" width="400"></a></p>
 <p align="center">
-    <a href="https://app.codacy.com/manual/JassManak1125/Yuki/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
-    <a href="https://github.com/JassManak1125/Yuki"> <img src="https://img.shields.io/github/repo-size/JassManak1125/Yuki?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/JassManak1125/Yuki/commits/inukaasith"> <img src="https://img.shields.io/github/last-commit/JassManak1125/Yuki?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/JassManak1125/Yuki/issues"> <img src="https://img.shields.io/github/issues/JassManak1125/Yuki?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
-    <a href="https://github.com/JassManak1125/Yuki/network/members"> <img src="https://img.shields.io/github/forks/JassManak1125/Yuki?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
+    <a href="https://app.codacy.com/manual/ProBoy-X/Yuukkii/dashboard"> <img src="https://img.shields.io/codacy/grade/4d58f2a402b54aed8a7d95f7add45a81?color=brightgreen&logo=codacy&logoColor=green&style=for-the-badge" alt="Codacy" /></a>
+    <a href="https://github.com/ProBoy-X/Yuukkii"> <img src="https://img.shields.io/github/repo-size/ProBoy-X/Yuukkii?color=orange&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ProBoy-X/Yuukkii/commits/inukaasith"> <img src="https://img.shields.io/github/last-commit/ProBoy-X/Yuukkii?color=brown&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ProBoy-X/Yuukkii/issues"> <img src="https://img.shields.io/github/issues/ProBoy-X/Yuukkii?color=blueviolet&logo=github&logoColor=green&style=for-the-badge" /></a>
+    <a href="https://github.com/ProBoy-X/Yuukkii/network/members"> <img src="https://img.shields.io/github/forks/ProBoy-X/Yuukkii?color=red&logo=github&logoColor=green&style=for-the-badge" /></a>  
     <a href="https://pypi.org/project/Telethon/"> <img src="https://img.shields.io/pypi/v/telethon?color=yellow&label=telethon&logo=python&logoColor=green&style=for-the-badge" /></a>
 </p>
 
@@ -31,7 +31,7 @@ Complete guide on deploying Daisy/Yuki's clone on Heroku.
 
 
 # 🏃‍♂️ Easy Deploy 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JassManak1125/Yuki.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ProBoy-X/Yuukkii.git)
 
 [Generate String Session](https://replit.com/@SpEcHiDe/GenerateStringSession)  << Select telethon
 
